@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/Pictures"/>
+    <qresource prefix="/qss">
+        <file>Irrorater.qss</file>
+        <file>Hookmark.qss</file>
+    </qresource>
+    <qresource lang=".pong" prefix="/img"/>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>img/vaccinePic1.png</file>
+<file>img/cc.png</file>
+        <file>img/vaccinePic2.jfif</file>
+        <file>img/images.jfif</file>
+        <file>img/vc.jfif</file>
+        <file>img/cv.jpg</file>
+<file>img/vaccine.png</file>
+<file>img/illustration-s2.png</file>
+<file>img/logo_0_0.png</file>
+<file>img/t1.png</file>
+<file>img/Health.png</file>
+
+<file>img/HCW.png</file>
+<file>img/covidd.png</file>
+<file>img/cc9976.png</file>
+<file>img/istockphoto.jpg</file>
+
+
+
+
+
+<file>img/pictogramme.jpg</file>
+
+    </qresource>
+</RCC>

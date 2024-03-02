@@ -1,0 +1,11 @@
+debug/qrc_Resource.o
+debug/AdminDialog1.o
+debug/Login.o
+debug/UserDL2.o
+debug/UserDialog1.o
+debug/main.o
+debug/moc_AdminDialog1.o
+debug/moc_Login.o
+debug/moc_Register.o
+debug/moc_UserDL2.o
+debug/moc_UserDialog1.o

@@ -1,0 +1,14 @@
+Hi, I am writting the user's vaccine infomation form My Qt to this file : 
+Username: a
+password: a
+insurance: 122
+First Name: fettah
+Last Name: afaf
+Age: Between 18~50
+Vaccine: Pfizer-BioNTech
+Shot: Seecond shot
+Date: 05/24/2023
+Time: 
+
+2023
+Time: 

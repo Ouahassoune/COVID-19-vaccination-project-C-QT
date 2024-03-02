@@ -1,0 +1,11 @@
+release/qrc_Resource.o
+release/AdminDialog1.o
+release/Login.o
+release/UserDL2.o
+release/UserDialog1.o
+release/main.o
+release/moc_AdminDialog1.o
+release/moc_Login.o
+release/moc_Register.o
+release/moc_UserDL2.o
+release/moc_UserDialog1.o
